@@ -16,6 +16,6 @@
       - Title & description
       - MovieSuggestions
         - MovieList * N (horizontal scrolling)
-- NetlfixGPT
+- NetfixGPT
     - Search Bar
     - Movie Suggestions
