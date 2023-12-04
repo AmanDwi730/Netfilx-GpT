@@ -6,6 +6,12 @@
 - Header
 - Login Form
 - Signup Form
+- Form Validation
+- Firebase setup
+- Create SignIn/SignUp user API
+- Created Redux store with useSlice
+- Implemented Sign out and Update profile using API
+
 
 # Features
 
