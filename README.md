@@ -20,6 +20,10 @@
 - Fetch data for trailer video
 - Update Store with trailer video data
 - Embedded the youtube video and make it autoplay and mute
+- Built Secondary Component
+- Built MovieList and MovieCard
+- TMDB image URL (inside Guides -> Basic)
+- usePopularMovies custom hooks and other hooks too
 
 # Features
 
