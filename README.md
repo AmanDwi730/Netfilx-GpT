@@ -24,6 +24,9 @@
 - Built MovieList and MovieCard
 - TMDB image URL (inside Guides -> Basic)
 - usePopularMovies custom hooks and other hooks too
+- GPT Search page
+- GPT Search Bar
+- 
 
 # Features
 
@@ -39,4 +42,6 @@
         - MovieList * N (horizontal scrolling)
 - NetfixGPT
     - Search Bar
+    - Multi-Language for search page
     - Movie Suggestions
+    

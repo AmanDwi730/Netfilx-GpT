@@ -5,7 +5,7 @@ import { createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfi
 import { auth } from '../Utils/firebaseConfig';
 import { addUser } from '../Utils/userSlice';
 import { useDispatch } from 'react-redux';
-import { userPic } from '../Utils/constants';
+import { BG_URL, userPic } from '../Utils/constants';
 
 
 const LogIn = () => {
@@ -86,7 +86,7 @@ const LogIn = () => {
     <div>
       <Header/>
       <div className='absolute'>
-        <img src='https://assets.nflxext.com/ffe/siteui/vlv3/c906271d-7184-4eec-83c9-b6d4c1a068ec/728874a6-eeda-400a-9bcf-a935a1408a4f/IN-en-20231127-popsignuptwoweeks-perspective_alpha_website_small.jpg' 
+        <img src= {BG_URL} 
         alt='bg'
         />
       </div>
