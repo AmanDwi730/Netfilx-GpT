@@ -82,7 +82,8 @@ const LogIn = () => {
   const toggleSignInForm = () =>{
     setIsSignUpForm(!isSignInForm);
   };
-  return (
+  
+    return (
     <div>
       <Header/>
       <div className='absolute'>
@@ -137,4 +138,5 @@ const LogIn = () => {
     </div>
   )
 };
+
 export default LogIn
